@@ -10,6 +10,13 @@ Un projet web simple et intuitif permettant de rechercher l'emplacement géograp
   </a>
 
   
+
+## Aperçu
+
+![screenshot](https://github.com/user-attachments/assets/37913e3f-db79-48c5-92e4-55d0e43ec400)
+
+
+
 ## Fonctionnalités
 
 Recherche d'adresse IP ou de domaine
@@ -22,6 +29,7 @@ Recherche d'adresse IP ou de domaine
 -  Chargement dynamique avec animation de loader
 
 
+
 ## Technologies utilisées
 
 - **HTML / CSS / JavaScript**
@@ -30,10 +38,6 @@ Recherche d'adresse IP ou de domaine
 - **jQuery** pour des interactions simples
 - **API d'IP Geolocation** (à configurer)
 
-
-## Aperçu
-
-![screenshot](https://github.com/user-attachments/assets/37913e3f-db79-48c5-92e4-55d0e43ec400)
 
 
 ## Lancer le projet en local
